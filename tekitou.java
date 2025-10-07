@@ -1,3 +1,6 @@
-public tekitou
+public class tekitou{
   public static void main (String[] args){
-  System.out.print("A")}
+  System.out.print("A")
+    }
+}
+
